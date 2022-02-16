@@ -10,7 +10,7 @@
 </head>
 <body>
    <form action="validar.php" method="post">
-   <h1 class="animate__animated animate__backInLeft">Bienvenido !!!</h1>
+   <h1 class="animate__animated animate__backInLeft">Bienvenido !</h1>
    <br>
    <img src="IMG/logo-fundacion.png" >
 </br>
